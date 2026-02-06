@@ -1,0 +1,9 @@
+
+{
+  "name": "Sentix AI - Customer Sentiment Dashboard",
+  "description": "An advanced customer feedback analysis platform that transforms raw review text into actionable insights using Gemini. Features include sentiment trend tracking, keyword visualization, and deep-thinking AI summaries.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
